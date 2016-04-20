@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LAT Desc="PowerContext - lattice.slf - #OfNodes = 24" type="ConceptLattice">
+  <MINSUPP>0.0</MINSUPP>
+  <OBJS>
+    <OBJ id="0">Bottom</OBJ>
+    <OBJ id="1">Dominant</OBJ>
+    <OBJ id="2">Hedonist</OBJ>
+    <OBJ id="3">Masochist</OBJ>
+    <OBJ id="4">Master</OBJ>
+    <OBJ id="5">Sadist</OBJ>
+    <OBJ id="6">Slave</OBJ>
+    <OBJ id="7">Submissive</OBJ>
+    <OBJ id="8">Top</OBJ>
+  </OBJS>
+  <ATTS>
+    <ATT id="0">active</ATT>
+    <ATT id="1">consent</ATT>
+    <ATT id="2">control</ATT>
+    <ATT id="3">defer</ATT>
+    <ATT id="4">force</ATT>
+    <ATT id="5">initiate</ATT>
+    <ATT id="6">intensity</ATT>
+    <ATT id="7">pain</ATT>
+    <ATT id="8">passive</ATT>
+    <ATT id="9">pleasure</ATT>
+  </ATTS>
+  <NODS>
+    <NOD id="0">
+      <EXT>
+        <OBJ id="0" />
+        <OBJ id="1" />
+        <OBJ id="2" />
+        <OBJ id="3" />
+        <OBJ id="4" />
+        <OBJ id="5" />
+        <OBJ id="6" />
+        <OBJ id="7" />
+        <OBJ id="8" />
+      </EXT>
+      <INT />
+      <SUP_NOD />
+    </NOD>
+    <NOD id="1">
+      <EXT>
+        <OBJ id="0" />
+        <OBJ id="1" />
+        <OBJ id="2" />
+        <OBJ id="3" />
+        <OBJ id="5" />
+        <OBJ id="7" />
+        <OBJ id="8" />
+      </EXT>
+      <INT>
+        <ATT id="1" />
+      </INT>
+      <SUP_NOD>
+        <PARENT id="0" />
+      </SUP_NOD>
+    </NOD>
+    <NOD id="2">
+      <EXT>
+        <OBJ id="0" />
+        <OBJ id="6" />
+        <OBJ id="7" />
+      </EXT>
+      <INT>
+        <ATT id="8" />
+      </INT>
+      <SUP_NOD>
+        <PARENT id="0" />
+      </SUP_NOD>
+    </NOD>
+    <NOD id="3">
+      <EXT>
+        <OBJ id="1" />
+        <OBJ id="2" />
+        <OBJ id="3" />
+        <OBJ id="4" />
+        <OBJ id="5" />
+        <OBJ id="8" />
+      </EXT>
+      <INT>
+        <ATT id="0" />
+      </INT>
+      <SUP_NOD>
+        <PARENT id="0" />
+      </SUP_NOD>
+    </NOD>
+    <NOD id="4">
+      <EXT>
+        <OBJ id="1" />
+        <OBJ id="4" />
+        <OBJ id="6" />
+        <OBJ id="7" />
+      </EXT>
+      <INT>
+        <ATT id="2" />
+      </INT>
+      <SUP_NOD>
+        <PARENT id="0" />
+      </SUP_NOD>
+    </NOD>
+    <NOD id="5">
+      <EXT>
+        <OBJ id="2" />
+        <OBJ id="3" />
+        <OBJ id="4" />
+        <OBJ id="5" />
+        <OBJ id="6" />
+      </EXT>
+      <INT>
+        <ATT id="6" />
+      </INT>
+      <SUP_NOD>
+        <PARENT id="0" />
+      </SUP_NOD>
+    </NOD>
+    <NOD id="6">
+      <EXT>
+        <OBJ id="0" />
+        <OBJ id="2" />
+        <OBJ id="8" />
+      </EXT>
+      <INT>
+        <ATT id="1" />
+        <ATT id="9" />
+      </INT>
+      <SUP_NOD>
+        <PARENT id="1" />
+      </SUP_NOD>
+    </NOD>
+    <NOD id="7">
+      <EXT>
+        <OBJ id="0" />
+        <OBJ id="7" />
+      </EXT>
+      <INT>
+        <ATT id="1" />
+        <ATT id="8" />
+      </INT>
+      <SUP_NOD>
+        <PARENT id="1" />
+        <PARENT id="2" />
+      </SUP_NOD>
+    </NOD>
+    <NOD id="8">
+      <EXT>
+        <OBJ id="1" />
+        <OBJ id="2" />
+        <OBJ id="3" />
+        <OBJ id="5" />
+        <OBJ id="8" />
+      </EXT>
+      <INT>
+        <ATT id="0" />
+        <ATT id="1" />
+      </INT>
+      <SUP_NOD>
+        <PARENT id="1" />
+        <PARENT id="3" />
+      </SUP_NOD>
+    </NOD>
+    <NOD id="9">
+      <EXT>
+        <OBJ id="1" />
+        <OBJ id="7" />
+      </EXT>
+      <INT>
+        <ATT id="1" />
+        <ATT id="2" />
+      </INT>
+      <SUP_NOD>
+        <PARENT id="1" />
+        <PARENT id="4" />
+      </SUP_NOD>
+    </NOD>
+    <NOD id="10">
+      <EXT>
+        <OBJ id="6" />
+        <OBJ id="7" />
+      </EXT>
+      <INT>
+        <ATT id="2" />
+        <ATT id="3" />
+        <ATT id="8" />
+      </INT>
+      <SUP_NOD>
+        <PARENT id="2" />
+        <PARENT id="4" />
+      </SUP_NOD>
+    </NOD>
+    <NOD id="11">
+      <EXT>
+        <OBJ id="1" />
+        <OBJ id="4" />
+      </EXT>
+      <INT>
+        <ATT id="0" />
+        <ATT id="2" />
+      </INT>
+      <SUP_NOD>
+        <PARENT id="3" />
+        <PARENT id="4" />
+      </SUP_NOD>
+    </NOD>
+    <NOD id="12">
+      <EXT>
+        <OBJ id="2" />
+        <OBJ id="3" />
+        <OBJ id="4" />
+        <OBJ id="5" />
+      </EXT>
+      <INT>
+        <ATT id="0" />
+        <ATT id="6" />
+      </INT>
+      <SUP_NOD>
+        <PARENT id="3" />
+        <PARENT id="5" />
+      </SUP_NOD>
+    </NOD>
+    <NOD id="13">
+      <EXT>
+        <OBJ id="4" />
+        <OBJ id="6" />
+      </EXT>
+      <INT>
+        <ATT id="2" />
+        <ATT id="4" />
+        <ATT id="6" />
+      </INT>
+      <SUP_NOD>
+        <PARENT id="4" />
+        <PARENT id="5" />
+      </SUP_NOD>
+    </NOD>
+    <NOD id="14">
+      <EXT>
+        <OBJ id="0" />
+      </EXT>
+      <INT>
+        <ATT id="1" />
+        <ATT id="8" />
+        <ATT id="9" />
+      </INT>
+      <SUP_NOD>
+        <PARENT id="6" />
+        <PARENT id="7" />
+      </SUP_NOD>
+    </NOD>
+    <NOD id="15">
+      <EXT>
+        <OBJ id="2" />
+        <OBJ id="8" />
+      </EXT>
+      <INT>
+        <ATT id="0" />
+        <ATT id="1" />
+        <ATT id="9" />
+      </INT>
+      <SUP_NOD>
+        <PARENT id="6" />
+        <PARENT id="8" />
+      </SUP_NOD>
+    </NOD>
+    <NOD id="16">
+      <EXT>
+        <OBJ id="7" />
+      </EXT>
+      <INT>
+        <ATT id="1" />
+        <ATT id="2" />
+        <ATT id="3" />
+        <ATT id="8" />
+      </INT>
+      <SUP_NOD>
+        <PARENT id="7" />
+        <PARENT id="9" />
+        <PARENT id="10" />
+      </SUP_NOD>
+    </NOD>
+    <NOD id="17">
+      <EXT>
+        <OBJ id="1" />
+      </EXT>
+      <INT>
+        <ATT id="0" />
+        <ATT id="1" />
+        <ATT id="2" />
+        <ATT id="5" />
+      </INT>
+      <SUP_NOD>
+        <PARENT id="8" />
+        <PARENT id="9" />
+        <PARENT id="11" />
+      </SUP_NOD>
+    </NOD>
+    <NOD id="18">
+      <EXT>
+        <OBJ id="2" />
+        <OBJ id="3" />
+        <OBJ id="5" />
+      </EXT>
+      <INT>
+        <ATT id="0" />
+        <ATT id="1" />
+        <ATT id="6" />
+      </INT>
+      <SUP_NOD>
+        <PARENT id="8" />
+        <PARENT id="12" />
+      </SUP_NOD>
+    </NOD>
+    <NOD id="19">
+      <EXT>
+        <OBJ id="6" />
+      </EXT>
+      <INT>
+        <ATT id="2" />
+        <ATT id="3" />
+        <ATT id="4" />
+        <ATT id="6" />
+        <ATT id="8" />
+      </INT>
+      <SUP_NOD>
+        <PARENT id="10" />
+        <PARENT id="13" />
+      </SUP_NOD>
+    </NOD>
+    <NOD id="20">
+      <EXT>
+        <OBJ id="4" />
+      </EXT>
+      <INT>
+        <ATT id="0" />
+        <ATT id="2" />
+        <ATT id="4" />
+        <ATT id="6" />
+      </INT>
+      <SUP_NOD>
+        <PARENT id="11" />
+        <PARENT id="12" />
+        <PARENT id="13" />
+      </SUP_NOD>
+    </NOD>
+    <NOD id="21">
+      <EXT>
+        <OBJ id="2" />
+      </EXT>
+      <INT>
+        <ATT id="0" />
+        <ATT id="1" />
+        <ATT id="6" />
+        <ATT id="9" />
+      </INT>
+      <SUP_NOD>
+        <PARENT id="15" />
+        <PARENT id="18" />
+      </SUP_NOD>
+    </NOD>
+    <NOD id="22">
+      <EXT>
+        <OBJ id="3" />
+        <OBJ id="5" />
+      </EXT>
+      <INT>
+        <ATT id="0" />
+        <ATT id="1" />
+        <ATT id="6" />
+        <ATT id="7" />
+      </INT>
+      <SUP_NOD>
+        <PARENT id="18" />
+      </SUP_NOD>
+    </NOD>
+    <NOD id="23">
+      <EXT />
+      <INT>
+        <ATT id="0" />
+        <ATT id="1" />
+        <ATT id="2" />
+        <ATT id="3" />
+        <ATT id="4" />
+        <ATT id="5" />
+        <ATT id="6" />
+        <ATT id="7" />
+        <ATT id="8" />
+        <ATT id="9" />
+      </INT>
+      <SUP_NOD>
+        <PARENT id="14" />
+        <PARENT id="16" />
+        <PARENT id="17" />
+        <PARENT id="19" />
+        <PARENT id="20" />
+        <PARENT id="21" />
+        <PARENT id="22" />
+      </SUP_NOD>
+    </NOD>
+  </NODS>
+</LAT>
+
