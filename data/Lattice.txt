@@ -1,0 +1,91 @@
+Node: 1, 200.0, 0.0
+Node: 2, 216.0, 304.0
+Node: 3, 280.0, 56.0
+Node: 4, 256.0, 152.0
+Node: 5, 256.0, 208.0
+Node: 6, 224.0, 208.0
+Node: 7, 352.0, 120.0
+Node: 8, 344.0, 208.0
+Node: 9, 296.0, 176.0
+Node: 10, 264.0, 240.0
+Node: 11, 320.0, 152.0
+Node: 12, 240.0, 120.0
+Node: 13, 176.0, 176.0
+Node: 14, 168.0, 240.0
+Node: 15, 184.0, 88.0
+Node: 16, 200.0, 152.0
+Node: 17, 160.0, 208.0
+Node: 18, 96.0, 152.0
+Node: 19, 120.0, 208.0
+Node: 20, 176.0, 152.0
+Node: 21, 96.0, 56.0
+Node: 22, 112.0, 120.0
+Node: 23, 264.0, 88.0
+Node: 24, 176.0, 56.0
+Edge: 8, 11
+Edge: 13, 12
+Edge: 19, 20
+Edge: 22, 24
+Edge: 9, 7
+Edge: 8, 7
+Edge: 10, 9
+Edge: 11, 3
+Edge: 5, 4
+Edge: 7, 3
+Edge: 18, 15
+Edge: 21, 1
+Edge: 6, 4
+Edge: 12, 3
+Edge: 2, 19
+Edge: 10, 13
+Edge: 17, 16
+Edge: 9, 12
+Edge: 14, 13
+Edge: 6, 20
+Edge: 13, 22
+Edge: 12, 24
+Edge: 17, 18
+Edge: 2, 5
+Edge: 23, 1
+Edge: 16, 15
+Edge: 2, 6
+Edge: 5, 11
+Edge: 5, 16
+Edge: 16, 23
+Edge: 11, 23
+Edge: 19, 18
+Edge: 22, 21
+Edge: 4, 3
+Edge: 6, 12
+Edge: 15, 1
+Edge: 18, 21
+Edge: 19, 22
+Edge: 20, 24
+Edge: 2, 14
+Edge: 20, 15
+Edge: 24, 1
+Edge: 3, 1
+Edge: 4, 15
+Edge: 2, 10
+Edge: 2, 8
+Edge: 2, 17
+Object: 5, Submissive
+Object: 6, Dominant
+Object: 8, Bottom
+Object: 9, Top
+Object: 10, Hedonist
+Object: 14, Masochist
+Object: 14, Sadist
+Object: 17, Slave
+Object: 19, Master
+Attribute: 3, consent
+Attribute: 6, initiate
+Attribute: 7, pleasure
+Attribute: 14, pain
+Attribute: 15, control
+Attribute: 16, defer
+Attribute: 18, force
+Attribute: 21, intensity
+Attribute: 23, passive
+Attribute: 24, active
+EOF
