@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BIN name="PowerContext.slf" nbObj="9" nbAtt="10" type="BinaryRelation">
+  <OBJS>
+    <OBJ id="0">Sadist</OBJ>
+    <OBJ id="1">Masochist</OBJ>
+    <OBJ id="2">Dominant</OBJ>
+    <OBJ id="3">Submissive</OBJ>
+    <OBJ id="4">Master</OBJ>
+    <OBJ id="5">Slave</OBJ>
+    <OBJ id="6">Top</OBJ>
+    <OBJ id="7">Bottom</OBJ>
+    <OBJ id="8">Hedonist</OBJ>
+  </OBJS>
+  <ATTS>
+    <ATT id="0">active</ATT>
+    <ATT id="1">passive</ATT>
+    <ATT id="2">intensity</ATT>
+    <ATT id="3">pleasure</ATT>
+    <ATT id="4">pain</ATT>
+    <ATT id="5">control</ATT>
+    <ATT id="6">force</ATT>
+    <ATT id="7">consent</ATT>
+    <ATT id="8">initiate</ATT>
+    <ATT id="9">defer</ATT>
+  </ATTS>
+  <RELS>
+    <REL idObj="0" idAtt="0" />
+    <REL idObj="0" idAtt="7" />
+    <REL idObj="0" idAtt="2" />
+    <REL idObj="0" idAtt="4" />
+    <REL idObj="1" idAtt="0" />
+    <REL idObj="1" idAtt="7" />
+    <REL idObj="1" idAtt="2" />
+    <REL idObj="1" idAtt="4" />
+    <REL idObj="2" idAtt="0" />
+    <REL idObj="2" idAtt="7" />
+    <REL idObj="2" idAtt="5" />
+    <REL idObj="2" idAtt="8" />
+    <REL idObj="3" idAtt="7" />
+    <REL idObj="3" idAtt="5" />
+    <REL idObj="3" idAtt="9" />
+    <REL idObj="3" idAtt="1" />
+    <REL idObj="4" idAtt="0" />
+    <REL idObj="4" idAtt="5" />
+    <REL idObj="4" idAtt="6" />
+    <REL idObj="4" idAtt="2" />
+    <REL idObj="5" idAtt="5" />
+    <REL idObj="5" idAtt="9" />
+    <REL idObj="5" idAtt="6" />
+    <REL idObj="5" idAtt="2" />
+    <REL idObj="5" idAtt="1" />
+    <REL idObj="6" idAtt="0" />
+    <REL idObj="6" idAtt="7" />
+    <REL idObj="6" idAtt="3" />
+    <REL idObj="7" idAtt="7" />
+    <REL idObj="7" idAtt="1" />
+    <REL idObj="7" idAtt="3" />
+    <REL idObj="8" idAtt="0" />
+    <REL idObj="8" idAtt="7" />
+    <REL idObj="8" idAtt="2" />
+    <REL idObj="8" idAtt="3" />
+  </RELS>
+</BIN>
+
